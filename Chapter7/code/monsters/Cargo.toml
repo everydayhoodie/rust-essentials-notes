@@ -1,0 +1,8 @@
+[package]
+name = "monsters"
+version = "0.1.0"
+authors = ["Junji Takakura <takakura0521@decoo.co.jp>"]
+
+[dependencies]
+log = "0.3"
+mac = "*"

@@ -1,0 +1,8 @@
+[package]
+name = "many_threads"
+version = "0.1.0"
+authors = ["Junji Takakura <takakura0521@decoo.co.jp>"]
+
+[dependencies]
+num_cpus = "*"
+threadpool = "*"
